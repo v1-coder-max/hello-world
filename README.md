@@ -1,2 +1,4 @@
 # hello-world
-This is my first Repository on Git-Hub
+Hi !
+My name is Vishal Kumar Nama.
+This is my first Repository on Git-Hub.
